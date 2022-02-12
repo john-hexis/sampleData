@@ -12,7 +12,7 @@
         "PSI": 27,
         "temperature": "24.5",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T01:25:00.000Z",
         "cat_end_on": "2022-02-10T05:15:00.000Z",
         "update_on": "2022-02-10T01:06:00.000Z"
@@ -44,7 +44,7 @@
         "PSI": 28,
         "temperature": "24.5",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -128,7 +128,7 @@
         "PSI": 22,
         "temperature": "24.3",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "3",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -144,7 +144,7 @@
         "PSI": 22,
         "temperature": "24.3",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "3",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -176,7 +176,7 @@
         "PSI": 22,
         "temperature": "23.7",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -240,7 +240,7 @@
         "PSI": 22,
         "temperature": "24.1",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -256,7 +256,7 @@
         "PSI": 22,
         "temperature": "24.1",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -320,7 +320,7 @@
         "PSI": 33,
         "temperature": "24.1",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -368,7 +368,7 @@
         "PSI": 25,
         "temperature": "",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -384,7 +384,7 @@
         "PSI": 28,
         "temperature": "",
         "image_name": "",
-        "CAT": "4",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -416,7 +416,7 @@
         "PSI": 28,
         "temperature": "",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -448,7 +448,7 @@
         "PSI": 33,
         "temperature": "24.3",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "3",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -480,7 +480,7 @@
         "PSI": 33,
         "temperature": "23.6",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -512,7 +512,7 @@
         "PSI": 27,
         "temperature": "25.0",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -544,7 +544,7 @@
         "PSI": 27,
         "temperature": "24.8",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "2",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -560,7 +560,7 @@
         "PSI": 27,
         "temperature": "24.1",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
@@ -624,7 +624,7 @@
         "PSI": 27,
         "temperature": "24.5",
         "image_name": "",
-        "CAT": "6",
+        "CAT": "1",
         "cat_start_on": "2022-02-10T10:27:00.000Z",
         "cat_end_on": "2022-02-10T12:00:00.000Z",
         "update_on": "2022-02-10T10:27:00.000Z"
